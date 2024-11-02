@@ -1,2 +1,2 @@
 # IAFinancas
-Projetos do curso FOrmação em Engenheiro de Blockchain DSA
+Projetos do curso Formação em Engenheiro de Blockchain DSA
