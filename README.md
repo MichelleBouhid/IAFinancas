@@ -9,7 +9,8 @@ Este repositório contém uma coleção de projetos que exploram o uso de técni
 
 ## Estrutura do Repositório
 
-### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade)
+### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto1_AST_Tendencia_Sazonalidade_Estacionariadade.git)
+
 ### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](https://github.com/MichelleBouhid/IAFinancas/PROJETOS/Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade.git)
 ### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
 - **Descrição**: Análise de séries temporais focada em identificar e decompor componentes de tendência, sazonalidade e estacionaridade em dados financeiros.
