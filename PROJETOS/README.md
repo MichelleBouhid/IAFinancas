@@ -6,6 +6,8 @@ Este repositório contém uma coleção de projetos que exploram o uso de técni
 
 ### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade/)
 
+### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](./Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade/)
+
 - **Descrição**: Análise de séries temporais focada em identificar e decompor componentes de tendência, sazonalidade e estacionaridade em dados financeiros.
 - **Objetivo**: Aplicar técnicas de análise de séries temporais para entender padrões de dados históricos e realizar previsões.
 
