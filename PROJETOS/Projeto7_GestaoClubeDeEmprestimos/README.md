@@ -2,6 +2,8 @@
 
 Este projeto integra Inteligência Artificial e Blockchain para a gestão de empréstimos pessoais. A primeira parte aborda a IA para prever a probabilidade de pagamento de empréstimos, enquanto a segunda parte explora a utilização da tecnologia Blockchain para armazenar transações e dados de contratos.
 
+# Parte 1 - IA para Gestão de Empréstimos
+
 ## Estrutura do Projeto
 
 ### Etapa 1: Exploração e Pré-processamento de Dados
@@ -54,16 +56,9 @@ Este projeto integra Inteligência Artificial e Blockchain para a gestão de emp
   - `tensorflow` e `keras` - Construção da Rede Neural.
   - `sklearn` - Pré-processamento de dados e avaliação do modelo.
 
-## Configuração do Ambiente
 
-Para executar o projeto, instale as bibliotecas listadas abaixo:
+# Parte 2 - Blockchain 
 
-```bash
-pip install pandas numpy matplotlib seaborn tensorflow sklearn
-
-# Projeto 7 - IA Aplicado a Finanças: Blockchain e IA Para Gestão de Empréstimos Pessoais – Clube do Empréstimo
-
-Este projeto explora a aplicação de tecnologia Blockchain para a gestão de dados e contratos de empréstimos pessoais, integrando técnicas de IA para aprimorar a análise de risco. A Parte 2 foca no uso de contratos inteligentes na rede Ethereum (ou simulada pelo Ganache) para garantir a segurança e transparência nas transações financeiras.
 
 ## Estrutura do Projeto
 
