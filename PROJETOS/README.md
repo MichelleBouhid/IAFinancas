@@ -14,28 +14,26 @@ Este repositório contém uma coleção de projetos que exploram o uso de técni
 - **Descrição**: Exploração de modelos de suavização exponencial e ARIMA para previsão de séries temporais.
 - **Objetivo**: Implementar e avaliar modelos de previsão avançados para dados temporais financeiros, ajustando sazonalidade e fatores externos.
 
-### [Projeto3_OtimizacaoDePortfolio](Projeto3_OtimizacaoDePortfolio/)
-
+### [Projeto3_OtimizacaoDePortfolio](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto3_OtimizacaoDePortfolio)
 - **Descrição**: Desenvolvimento de estratégias de otimização de portfólio utilizando técnicas de alocação de ativos baseadas em variância e retorno.
 - **Objetivo**: Maximizar o retorno esperado de um portfólio financeiro, minimizando o risco com base em restrições específicas.
 
-### [Projeto4_AuditoriaContabil](Projeto4_AuditoriaContabil/)
+### [Projeto4_AuditoriaContabil](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto4_AuditoriaContabil)
 
 - **Descrição**: Implementação de algoritmos de detecção de anomalias para auditoria contábil, visando identificar discrepâncias e potenciais fraudes.
 - **Objetivo**: Utilizar Machine Learning para melhorar a precisão e a eficiência da auditoria contábil, garantindo conformidade e detectando irregularidades.
 
-### [Projeto5_AnaliseDeCreditoInadimplentes](Projeto5_AnaliseDeCreditoInadimplentes/)
+### [Projeto5_AnaliseDeCreditoInadimplentes](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto5_AnaliseDeCreditoInadimplentes)
 
 - **Descrição**: Modelo de classificação para prever a inadimplência de clientes baseado em características demográficas e histórico financeiro.
 - **Objetivo**: Auxiliar instituições financeiras a tomarem decisões informadas sobre concessão de crédito, minimizando o risco de inadimplência.
 
-### [Projeto6_AvaliandoHedge](Projeto6_AvaliandoHedge/)
+### [Projeto6_AvaliandoHedge](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto6_AvaliandoHedge)
 
 - **Descrição**: Estruturação de derivativos para hedge de riscos de commodities com uso de IA para simulação de cenários de preços futuros.
 - **Objetivo**: Proteger portfólios e investimentos contra flutuações de preço de commodities, otimizando estratégias de hedge.
 
-### [Projeto7_GestaoClubeDeEmprestimos](Projeto7_GestaoClubeDeEmprestimos/)
-
+### [Projeto7_GestaoClubeDeEmprestimos](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto7_GestaoClubeDeEmprestimos)
 - **Descrição**: Integração de IA e Blockchain para a gestão de empréstimos pessoais em um sistema descentralizado de empréstimos.
 - **Objetivo**: Prever inadimplência de empréstimos pessoais com IA e armazenar dados de forma segura e transparente com contratos inteligentes em Blockchain.
 
