@@ -6,17 +6,10 @@ Este repositório contém uma coleção de projetos que exploram o uso de técni
 
 ### [Projeto1_AST_Tendencia_Sazonalidade_Estacionariadade](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto1_AST_Tendencia_Sazonalidade_Estacionariadade)
 
-
-### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade/)
-
-### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](./Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade/)
-
-### [Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade](PROJETOS/Projeto1_AST_Tendencia_Sazonalidade_Estacionaridade/)
-
 - **Descrição**: Análise de séries temporais focada em identificar e decompor componentes de tendência, sazonalidade e estacionaridade em dados financeiros.
 - **Objetivo**: Aplicar técnicas de análise de séries temporais para entender padrões de dados históricos e realizar previsões.
 
-### [Projeto2_ModelosExponencialSmoothing_ARIMA_SARIMAX](Projeto2_ModelosExponencialSmoothing_ARIMA_SARIMAX/)
+### [Projeto2_ModelosExponencialSmoothing_ARIMA_SARIMAX](https://github.com/MichelleBouhid/IAFinancas/tree/main/PROJETOS/Projeto2_ModelosExponencialSmoothing_ARIMA_SARIMAX)
 
 - **Descrição**: Exploração de modelos de suavização exponencial e ARIMA para previsão de séries temporais.
 - **Objetivo**: Implementar e avaliar modelos de previsão avançados para dados temporais financeiros, ajustando sazonalidade e fatores externos.
